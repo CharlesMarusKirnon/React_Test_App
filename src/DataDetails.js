@@ -4,11 +4,11 @@ import useFetch from "./useFetch";
 
 const DataDetails = () => {
     const {id} = useParams();
-    const { data: book, error, isPending } = useFetch('https://api.jsonbin.io/b/61eeabdcbd6e744997eae393' + id);
+    const { data: book, error, isPending } = useFetch('http://localhost:8000/books/' + id);
     const history = useHistory();
 
    const handleClick= () => {
-    fetch('https://api.jsonbin.io/b/61eeabdcbd6e744997eae393' + book.id, {
+    fetch('http://localhost:8000/books/' + book.id, {
     method: 'DELETE'
 
     }) .then(() => {

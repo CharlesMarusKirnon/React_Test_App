@@ -7,7 +7,7 @@ const navbar = () => {
         backgroundColor: 'white',
 
       }}>
-         <h1>Data</h1>
+         <h1>Data2</h1>
          <div className="links">
           <Link to="/">Home</Link>
             <Link to="/create" style={{
