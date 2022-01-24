@@ -1,0 +1,47 @@
+{
+  "books": [
+    {
+      "title": "Théâtrophone",
+      "body": "A smiling woman in evening dress looks sideways at the viewer while holding the receivers of a “théâtrophone” to her ears, unheeding of the people standing in line behind her. The théâtrophone was an early distribution service which made it possible to use coin-operated telephonic devices set up in cafés, hotels, etc. to listen to opera or theater performances at a rate of 50 centimes per five minutes.\n\nThe caption reads in the original French: Affiche pour la Compagnie du Théâtrophone.",
+      "author": "Chéret, Jules",
+      "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/11/theatrophone.jpg",
+      "id": 0
+    },
+    {
+      "title": "Pall Mall Budget",
+      "body": "Advertising poster showing the stylized figure of woman with a red dress and parasol looking to the side while holding a magazine open on her lap.\n\nThe caption reads in the original French: Affiche anglaise pour la revue hebdomadaire Illustrated Pall Mall Budget.",
+      "author": "Greiffenhagen, Maurice",
+      "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/11/pall-mall-budget.jpg",
+      "id": 1
+    },
+    {
+      "title": "The Hunting Feast",
+      "body": "A man stands beside a table with a jug in one hand and a pole weapon (referred to as a partisan by the author, but looking more like a war scythe in the artist’s rendition) in the other, looking defiant. He is surrounded by armed men carrying bows and spears, and hints of vegetation in the foreground as well as trees in the background make it clear this is an outdoor scene.",
+      "author": "Macbeth-Raeburn, Henry",
+      "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/11/hunting-feast.jpg",
+      "id": 2
+    },
+    {
+      "title": "Ex-Libris with Portative Organ",
+      "body": "Bookplate design showing a winged female figure facing the viewer while playing the portative organ with her right hand, against a backdrop of floral decoration.",
+      "author": "Rhead, Louis",
+      "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/08/ex-libris-organ.jpg",
+      "id": 3
+    },
+    {
+      "title": "Ex-Libris with Swans",
+      "body": "Bookplate design showing a woman standing in a park with a book in her hands, by a small pond in which three swans are swimming.",
+      "author": "Rhead, Louis",
+      "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/08/ex-libris-swans.jpg",
+      "id": 4
+    },
+    {
+      "title": "Encourage the Beautiful",
+      "body": "Bookplate design showing a seated woman seen from the side wearing a peplos-like gown and about to write or draw on a piece of paper among floral ornamentation. Below, a scroll bears the inscription “Encourage the beautiful, for the useful encourages itself,” allegedly quoted from Goethe.",
+      "author": "Rhead, Louis",
+      "image": "https://www.oldbookillustrations.com/wp-content/uploads/2021/08/ex-libris-encourage-beautiful.jpg",
+      "id": 5
+    }
+
+  ]
+}
