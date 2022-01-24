@@ -4,11 +4,11 @@ import useFetch from "./useFetch";
 
 const DataDetails = () => {
     const {id} = useParams();
-    const { data: book, error, isPending } = useFetch('http://localhost:8000/books/' + id);
+    const { data: book, error, isPending } = useFetch('https://github.com/CharlesMarusKirnon/React_Test_App/blob/master/data/db.json' + id);
     const history = useHistory();
 
    const handleClick= () => {
-    fetch('http://localhost:8000/books/' + book.id, {
+    fetch('https://github.com/CharlesMarusKirnon/React_Test_App/blob/master/data/db.json' + book.id, {
     method: 'DELETE'
 
     }) .then(() => {
