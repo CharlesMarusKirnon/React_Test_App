@@ -3,7 +3,7 @@ import BookList from "./BookList";
 import useFetch from "./useFetch";
 // component named Home,
 const Home = () => {
-    const{data: books, isPending, error} = useFetch('http://localhost:8000/books');
+    const{data: books, isPending, error} = useFetch('https://api.npoint.io/143397cbebad8da096a2/books/');
 
 
 

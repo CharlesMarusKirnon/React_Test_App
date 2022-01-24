@@ -4,11 +4,11 @@ import useFetch from "./useFetch";
 
 const DataDetails = () => {
     const {id} = useParams();
-    const { data: book, error, isPending } = useFetch('http://localhost:8000/books/' + id);
+    const { data: book, error, isPending } = useFetch('https://api.npoint.io/143397cbebad8da096a2/books/' + id);
     const history = useHistory();
 
    const handleClick= () => {
-    fetch('http://localhost:8000/books/' + book.id, {
+    fetch('https://api.npoint.io/143397cbebad8da096a2/books/' + book.id, {
     method: 'DELETE'
 
     }) .then(() => {
