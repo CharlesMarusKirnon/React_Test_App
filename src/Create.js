@@ -16,7 +16,7 @@ const Create = () => {
 
         setIsPending(true);
 
-        fetch('https://www.npoint.io/docs/10bd19e2467cb9b3a20b', {
+        fetch('http://localhost:8000/books', {
             method: 'POST',
             headers: {"Content-Type": "application/json"},
             body: JSON.stringify(book),
