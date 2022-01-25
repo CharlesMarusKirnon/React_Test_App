@@ -44,6 +44,8 @@ async function scrapeData() {
   } catch (err) {
     console.error(err);
   }
+  
 }
+
 // Invoke the above function
 scrapeData();
